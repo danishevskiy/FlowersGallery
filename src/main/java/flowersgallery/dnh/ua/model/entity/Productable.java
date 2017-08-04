@@ -7,8 +7,4 @@ import java.math.BigDecimal;
  */
 public interface Productable {
 
-    BigDecimal sellingPrice = new BigDecimal(0);
-
-
-
 }
